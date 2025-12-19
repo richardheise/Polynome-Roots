@@ -2,7 +2,7 @@
 #include <math.h>
 
 #include "utils.h"
-#include "ZeroFuncao.h"
+#include "funcaoZero.h"
 
 int main () {
 

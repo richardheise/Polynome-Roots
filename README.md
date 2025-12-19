@@ -1,31 +1,31 @@
-# Polynomial Root Finding Methods
+# Métodos para Encontrar Raízes de Polinômios
 
-This project implements three different methods for finding the roots of a polynomial: Bisection, Newton-Raphson, and Secant.
+Este projeto implementa três métodos diferentes para encontrar as raízes de um polinômio: Bisseção, Newton-Raphson e Secante.
 
-## Code Organization
+## Organização do Código
 
-The code is organized into the following directories:
+O código está organizado nos seguintes diretórios:
 
-- `src/`: Contains the source code (`.c` and `.h` files).
-- `bin/`: Contains the compiled executable.
-- `obj/`: Contains the object files (`.o` files).
+- `src/`: Contém o código-fonte (arquivos `.c` e `.h`).
+- `bin/`: Contém o executável compilado.
+- `obj/`: Contém os arquivos objeto (`.o`).
 
-## How to Run
+## Como Executar
 
-To compile and run the code, follow these steps:
+Para compilar e executar o código, siga estes passos:
 
-1. **Compile the code:**
+1. **Compile o código:**
    ```bash
    make
    ```
-2. **Run the executable:**
+2. **Execute o executável:**
    ```bash
    ./bin/labZero
    ```
 
-## Cleaning Up
+## Limpando
 
-To remove the compiled files, you can use the following command:
+Para remover os arquivos compilados, você pode usar o seguinte comando:
 
 ```bash
 make clean

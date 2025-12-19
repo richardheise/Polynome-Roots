@@ -2,7 +2,7 @@
 #include <math.h>
 
 #include "utils.h"
-#include "ZeroFuncao.h"
+#include "funcaoZero.h"
 
 double bisection (Polynomial p, double a, double b, double eps,
 	       int *it, double *root) {

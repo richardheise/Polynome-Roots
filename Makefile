@@ -3,7 +3,7 @@ CC = gcc -g
 CFLAGS = -I./src
 LFLAGS = -lm
 
-PROG = labZero
+PROG = laboratorioZero
 SRCDIR = src
 OBJDIR = obj
 BINDIR = bin
