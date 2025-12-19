@@ -12,4 +12,3 @@ typedef char * string_t;
 double timestamp(void);
 
 #endif // __UTILS_H__
-
